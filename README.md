@@ -1,4 +1,6 @@
 # Proyecto Intermodular: Reto Incidencias TIC
+![AlpacApp Incidents](https://github.com/Kangelx/Proyecto2024-2025/assets/119075863/2003494f-a1b8-4eb2-9bf7-6852772db69a)
+
 ### Los participantes que forman el Equipo 3 son:
 
 * Diego Corominas Gómez
