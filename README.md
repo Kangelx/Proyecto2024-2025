@@ -23,6 +23,6 @@
 
    
 
-4. ## [Programación de Procesos y Servicios](https://github.com/Kangelx/SGE-Proyecto-2024/blob/main/README.md)
+4. ## [Sistemas de Gestión Empresarial](https://github.com/Kangelx/SGE-Proyecto-2024/blob/main/README.md)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
